@@ -1,0 +1,7 @@
+table,th,td{
+    border: 1px solid black;
+}
+caption{
+    font-size: 30px ;
+    font-weight: bolder;
+}

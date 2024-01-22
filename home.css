@@ -1,0 +1,25 @@
+body{
+    margin: auto;
+    padding: 100px ;
+    background-color: blanchedalmond;
+}
+h1{
+    text-align: center;
+    font-size: xx-large;
+    font-family:"Times New Roman";
+    font-weight: bolder;
+}
+h3{
+    color: orangered;
+    text-align: left;
+}
+p{
+    font-weight: bold;
+}
+hr{
+    border: 1px solid aqua;
+}
+img{
+
+    margin-left: 465px;
+}

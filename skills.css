@@ -1,0 +1,11 @@
+h1{
+    font-size: xx-large;
+}
+.main{
+    display: flex;
+}
+img{
+    width: 200px;
+    height: 200px ;
+}
+
